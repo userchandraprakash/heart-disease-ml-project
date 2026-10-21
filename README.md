@@ -49,16 +49,6 @@ Heart disease is one of the leading causes of death worldwide. Early prediction 
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | EDA | Prediction |
-|:---------:|:---:|:----------:|
-| ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | ![EDA](https://via.placeholder.com/300x200?text=EDA) | ![Predict](https://via.placeholder.com/300x200?text=Predict) |
-
-> *Replace with actual screenshots after deployment*
-
----
-
 ## 📊 Dataset
 
 **Source:** [UCI Machine Learning Repository — Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
