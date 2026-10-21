@@ -111,7 +111,7 @@ heart-disease-ml-project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/heart-disease-ml-project.git
+git clone https://github.com/<userchandraprakash>/heart-disease-ml-project.git
 cd heart-disease-ml-project
 
 # Create a virtual environment (recommended)
