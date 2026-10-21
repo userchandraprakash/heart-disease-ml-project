@@ -18,7 +18,6 @@ A comprehensive machine learning project that predicts the likelihood of heart d
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Screenshots](#screenshots)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
