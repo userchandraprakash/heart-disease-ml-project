@@ -11,7 +11,7 @@
 
 A comprehensive machine learning project that predicts the likelihood of heart disease using multiple classification algorithms. The project compares **6 different models**, performs hyperparameter tuning, and provides an **interactive web dashboard** built with Streamlit.
 
-### 🌐 [Live Demo on Streamlit Cloud →](#) *(Update link after deployment)*
+### 🌐 https://cp-heart-disease-ml-project.streamlit.app/
 
 ---
 
